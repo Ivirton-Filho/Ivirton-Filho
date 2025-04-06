@@ -21,15 +21,5 @@ Prazer! Me chamo Ivirton, moro em Pernambuco, Brasil, e atualmente estou cursand
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivirton-Filho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<div> 
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  
-  <a href="mailto:ivirtondev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ivirton-hilario-b74569307" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+
 
